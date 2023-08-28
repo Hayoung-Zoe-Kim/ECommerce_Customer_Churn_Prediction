@@ -1,4 +1,6 @@
-## E-Commerce Customer Churn Prediction: Project Overview
+# E-Commerce Customer Churn Prediction
+
+## Project Overview
 * Predicted Cutomer Churn for an E-Commerce platform based on customer attributes such as Tenure, recency and cashback amount.
 * Executed diverse models such as Logistic Regression, Random Forest and Gradient Boosting to identify key predictors.
 * Optimized several models using respective techniques
