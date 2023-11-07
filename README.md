@@ -1,6 +1,6 @@
 # E-Commerce Customer Churn Prediction
 
-## Project Overview
+## 🌿 Project Overview
 * Predicted Cutomer Churn for an E-Commerce platform based on customer attributes such as Tenure, Recency and Cashback Amount.
 * Executed diverse models such as Random Forest, Gradient Boosting and KNN Classifier to identify key predictors.
 * Optimized several models by employing respective techniques to fine-tune hyperparameters.
