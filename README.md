@@ -8,8 +8,8 @@
 * dataset : https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction
   
 ## Highlights of Analysis
-![alt text](https://github.com/Hayoung-Zoe-Kim/ECommerce_Customer_Churn_Prediction/blob/main/3_.png)
-![alt text](https://github.com/Hayoung-Zoe-Kim/ECommerce_Customer_Churn_Prediction/blob/main/4_.png)
+![alt text](https://github.com/Hayoung-Zoe-Kim/ECommerce_Customer_Churn_Prediction/blob/main/Churn by Tenure.png)
+![alt text](https://github.com/Hayoung-Zoe-Kim/ECommerce_Customer_Churn_Prediction/blob/main/Churn by Day Since LastOrder.png)
 ![alt text](https://github.com/Hayoung-Zoe-Kim/ECommerce_Customer_Churn_Prediction/blob/main/6.png)
 ![alt text](https://github.com/Hayoung-Zoe-Kim/ECommerce_Customer_Churn_Prediction/blob/main/7..png)
 
