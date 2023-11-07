@@ -51,7 +51,7 @@ Through rigorous data analysis and model optimization, we have determined that v
 * **Insurance Renewals:** Insurance companies can tailor their renewal offers by giving discounts or added benefits to customers who have a higher likelihood of churning.
 
 
-
+* Full code: https://github.com/Hayoung-Zoe-Kim/ECommerce_Customer_Churn_Prediction/blob/main/0_Final%20Analysis.ipynb
 
 
 
