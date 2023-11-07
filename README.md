@@ -11,7 +11,7 @@
 
 ## EDA
 I looked at the distributions of numerical and categorical variables based on the churn result(0 or 1). Below are a few highlights.
-![alt text](https://github.com/Hayoung-Zoe-Kim/ECommerce_Customer_Churn_Prediction/blob/main/2.png.png)
+![alt text](https://github.com/Hayoung-Zoe-Kim/ECommerce_Customer_Churn_Prediction/blob/main/2_.png)
 ![alt text](https://github.com/Hayoung-Zoe-Kim/ECommerce_Customer_Churn_Prediction/blob/main/3_.png)
 ![alt text](https://github.com/Hayoung-Zoe-Kim/ECommerce_Customer_Churn_Prediction/blob/main/4_.png)
 ![alt text](https://github.com/Hayoung-Zoe-Kim/ECommerce_Customer_Churn_Prediction/blob/main/5.png)
