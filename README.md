@@ -1,6 +1,6 @@
 # E-Commerce Customer Churn Prediction
 
-## 🌿 Project Overview
+## Project Overview
 * Predicted Cutomer Churn for an E-Commerce platform based on customer attributes such as Tenure, Recency and Cashback Amount.
 * Executed diverse models such as Random Forest, Gradient Boosting and KNN Classifier to identify key predictors.
 * Optimized several models by employing respective techniques to fine-tune hyperparameters.
@@ -37,7 +37,7 @@ Through rigorous data analysis and model optimization, we have determined that v
 * **Enhance Customer Service:** Establish a robust customer feedback loop and resolution process to rapidly address and rectify complaints, which will, in turn, improve customer retention.
 * **Amplify Cashback Incentives:** Leverage cashback incentives more strategically, perhaps tiered by customer value segments, to ensure that high-risk customers are given ample reason to continue their patronage.
 
-## This analysis of 'churn predictions' can be applied to the following business cases:
+## 🌿 This analysis of 'churn predictions' can be applied to the following business cases:
 #### E-Commerce Platforms
 * **Personalization of Offers:** Based on the churn probability, e-commerce companies can personalize promotions and offers for customers at risk of churning. They could provide targeted cashback rewards or discounts on the next purchase to improve retention.
 * **Loyalty program:** Use churn predictions to segment customers and tailor loyalty programs more effectively, focusing on those with higher tenure and spend.
