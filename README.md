@@ -14,7 +14,7 @@ I looked at the distributions of numerical and categorical variables based on th
 ![alt text](https://github.com/Hayoung-Zoe-Kim/ECommerce_Customer_Churn_Prediction/blob/main/2_.png)
 ![alt text](https://github.com/Hayoung-Zoe-Kim/ECommerce_Customer_Churn_Prediction/blob/main/3_.png)
 ![alt text](https://github.com/Hayoung-Zoe-Kim/ECommerce_Customer_Churn_Prediction/blob/main/4_.png)
-![alt text](https://github.com/Hayoung-Zoe-Kim/ECommerce_Customer_Churn_Prediction/blob/main/5.png)
+![alt text](https://github.com/Hayoung-Zoe-Kim/ECommerce_Customer_Churn_Prediction/blob/main/5_.png)
 ![alt text](https://github.com/Hayoung-Zoe-Kim/ECommerce_Customer_Churn_Prediction/blob/main/6.png)
 ![alt text](https://github.com/Hayoung-Zoe-Kim/ECommerce_Customer_Churn_Prediction/blob/main/7..png)
 
@@ -32,6 +32,7 @@ The Random Forest model far outperformed the other approaches on the test and va
 * Tenure, Warehouse to Home distance, Complain and cashback amount are the key variables that impact customer churn
 * Random forest was the best way to predict churn rate
 * Recommendation: Increase customer tenure and cashback amount to for stronger customer loyalty and lock-in effect and decrease customers complaints 
+
 
 
 
